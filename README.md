@@ -27,8 +27,10 @@
 2. Некорректно распознает сильно пикселизованные изображения.
 
 ### Примеры работы:
-![](good/14.jpg?raw=true)
+![](result/6.jpg?raw=true)
 
-![](good/15.jpg?raw=true)
+![](result/13.jpg?raw=true)
 
-![](good/412.jpg?raw=true)
+![](result/15.jpg?raw=true)
+
+![](result/16.jpg?raw=true)
